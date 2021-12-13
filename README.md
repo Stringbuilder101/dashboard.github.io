@@ -24,9 +24,9 @@ https://replit.com/@PolinaZ1/boilerplate-project-urlshortener#.replit
 https://replit.com/@PolinaZ1/boilerplate-project-exercisetracker#.replit
 <br>File Metadata
 https://replit.com/@PolinaZ1/boilerplate-project-filemetadata#.replit
-About
+<br>About
 https://github.com/Stringbuilder101/resume
-Weather App
+<br>Weather App
 https://codepen.io/polinazclements/pen/wvqEYNQ
 
 
