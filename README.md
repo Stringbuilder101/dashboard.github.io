@@ -10,4 +10,8 @@ https://drive.google.com/drive/folders/1CoxHBMRFGdrg2uHA43GTFa18kVqw-OIK?usp=sha
 https://drive.google.com/drive/folders/1yLrQU9P_-hTmHaph8AoDPbtOnvzAjwwd?usp=sharing
 <br>Mongo DB and Mongoose
 https://replit.com/@polina101/boilerplate-mongomongoose-5#replit
+<br>Node+Express
+https://replit.com/@polina101/boilerplate-express-4#.replit
+<br>Node+npm
+https://replit.com/@polina/boilerplate-npm-1#.replit
 
